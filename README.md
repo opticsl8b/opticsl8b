@@ -6,32 +6,32 @@
 
 ## Skills: 
 
-🔹&nbsp;  **Front End Languages** HTML, CSS, and JavaScript.
+🪓&nbsp;  **Front End Languages** HTML, CSS, and JavaScript.
 
-🔸&nbsp;  **Front End Framework/Libraries:** React.js, Next.js, jQuery, and Apollo Client.
+🔨&nbsp;  **Front End Framework/Libraries:** React.js, Next.js, jQuery, and Apollo Client.
 
-🔹&nbsp;  **State Management:** Redux (Toolkit).
+⛏&nbsp;  **State Management:** Redux (Toolkit).
 
-🔸&nbsp;  **CSS Libraries:** Bootstrap, Tailwind, Bulma, and Material UI.
+🔨&nbsp;  **CSS Libraries:** Bootstrap, Styled-Component, Skeleton, and Material UI.
 
-🔹&nbsp;  **Authentication:** Firebase/auth, JSON Web Tokens, and sessions.
+🪓&nbsp;  **Authentication:** JSON Web Tokens and sessions.
 
-🔸&nbsp;  **Back End Language:** Node.js, SQL, and GraphQL.
+⛏&nbsp;  **Back End Language:** Node.js, SQL, MySQL2  and GraphQL.
 
-🔹&nbsp;  **Back End Frameworks:** Firebase, Express.js, and Apollo Server.
+🔨&nbsp;  **Back End Frameworks:** Express.js, and Apollo Server.
 
-🔸&nbsp;  **Databases:** MySQL (Sequelize), MongoDB (Mongoose), and Firestore.
+🪓&nbsp;  **Databases:** MySQL (Sequelize), MongoDB (Mongoose), and NoSQL.
 
-🔹&nbsp;  **Testing:** Jest.
+⛏&nbsp;  **Testing:** Jest.
 
-🔸&nbsp;  **Agile Development:** Code reviews, user stories, stand ups, sprints, and version control (git).
+🔨&nbsp;  **Agile Development:** Code reviews, user stories, stand ups, sprints, and version control (git).
 
 ## Contact: 
 
-📘&nbsp; [Portfolio](https://anusontarangkul.github.io/portfolio-anusontarangkul/)
+📘&nbsp; [Portfolio](https://opticsl8b.github.io/Portfolio-update//)
 
 📫&nbsp; How to contact me:
 
-- anusontarangkul.d@gmail.com
+- unipisq@gmail.com
 
-🌎&nbsp; Fun Fact: I studied abroad in Thailand and Hong Kong!
+🌎&nbsp; Fun Fact: I was ranked world Asia 2nd 🏆 & World Top. 10 🥈@ NBA LIVE 2008-09!🏀
