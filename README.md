@@ -34,4 +34,4 @@
 
 - unipisq@gmail.com
 
-🌎&nbsp; Fun Fact: I was ranked world Asia 2nd 🏆 & World Top. 10 🥈@ NBA LIVE 2008-09!🏀
+🌎&nbsp; Fun Fact: I was ranked 2nd in Asia 🏆 & 10th in world ranking🥈@ NBA LIVE 2008-09!🏀
